@@ -3,7 +3,7 @@ pdxmesh = {
 	file = "tibetan_city_01.mesh"
 
 	meshsettings = {
-		name = "building_tibetan_city_01Shape"
+		name = "tibetan_city_01Shape"
 		index = 0
 		texture_diffuse = "building_tibetan_atlas_diffuse.dds"
 		texture_normal = "building_tibetan_atlas_normal.dds"
